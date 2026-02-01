@@ -1,5 +1,5 @@
 # How To Run
-BunntVsBees\Gppbox\x64\Release\BunnyVSBees.exe, make sure that the .exe is in the same folder as everything else in the Release folder !
+The .exe is in Gppbox\x64\Release\BunnyVSBees.exe, make sure that the .exe is in the same folder as everything else in the Release folder !
 
 # Controls
 - Move with Q and D

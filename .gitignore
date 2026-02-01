@@ -1,0 +1,16 @@
+/Sandbox/.vs
+/Sandbox/x64
+/Sandbox/sfml_test/x64
+
+/Experiments/.vs
+/Experiments/x64
+/Experiments/sfml_test/x64
+
+/Gppbox/.vs
+/Gppbox/x64
+/Gppbox/sfml_test/x64
+/GppboxMonogame/bin
+/GppboxMonogame/obj
+/GppboxMonogameNetwork/bin
+/GppboxMonogameNetwork/.vs
+/GppboxMonogameNetwork/obj
